@@ -4,7 +4,7 @@ Esse é um repositório de aulas e materiais didáticos do Prof. Dr. João Gilbe
 
 Ele contem aulas, apresentações e oficinas sobre História, Educação, Programação, Ensino de História entre outros temas.
 
-**Website**:[https://jonjo.hcommons.org/](https://jonjo.hcommons.org/)   
+**Website**: [https://jonjo.hcommons.org/](https://jonjo.hcommons.org/)
 **E-mail**: [joaogilberto@tuta.io](mailto:joaogilberto@tuta.io)  
 
 ### 2021
