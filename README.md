@@ -33,9 +33,9 @@ Ele contem aulas, apresentações e oficinas sobre História, Educação, Progra
 
 Blogs com atividades, textos, vídeos, jogos etc. utilizados ao longo do ano letivo:
 
-- 7 ANO A B C 
-- 8 ANO A B
-- 9 ANO A B
+- [7 ANO A B C](https://joaogilberto0.wordpress.com/7ano/) 
+- [8 ANO A B](https://joaogilberto0.wordpress.com/8ano/)
+- [9 ANO A B](https://joaogilberto0.wordpress.com/9ano/)
 
 [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLScAslpCiJp3o1HdKS7dpVUWTulo-Z8WMuM3OnJKX-_Kuv4liQ/viewform?usp=sf_link) para enviar atividades no caderno, trabalhos, fotografias, etc
 
