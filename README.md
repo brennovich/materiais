@@ -1,19 +1,13 @@
-## Welcome to GitHub Pages
+## Aulas e Materiais
 
-You can use the [editor on GitHub](https://github.com/0jonjo/materiais/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Esse é um repositório de aulas e materiais didáticos do Prof. Dr. João Gilberto Neves Saraiva [Website](https://jonjo.hcommons.org/) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ele contem aulas, apresentações e oficinas sobre História, Educação, Programação, Ensino de História entre outros temas.
 
-### Markdown
+**E-mail**: joaogilberto@tuta.io
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+🖨️ Currículo Lattes  🌎 ORCID   🐦 Twitter   🖥️ Github
+🔗 LinkedIn  🧩 Humanities Commons  📸 Instagram
 
 - Bulleted
 - List
